@@ -1,4 +1,5 @@
 ### Clustering Kondisi Ekonomi Provinsi di Indonesia Menggunakan Metode K-Means Clustering
+<img width="1672" height="941" alt="ChatGPT Image 20 Mei 2026, 04 09 53" src="https://github.com/user-attachments/assets/94f67ae2-1652-4462-b8dd-720ce372b7e5" />
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-KMeans-orange) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow) ![Status](https://img.shields.io/badge/Status-Selesai-green)
 
