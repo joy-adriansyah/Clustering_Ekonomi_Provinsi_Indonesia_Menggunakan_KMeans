@@ -1,5 +1,4 @@
-### Clustering Kondisi Ekonomi Provinsi di Indonesia
-### Menggunakan Metode K-Means Clustering
+### Clustering Kondisi Ekonomi Provinsi di Indonesia Menggunakan Metode K-Means Clustering
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-KMeans-orange) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow) ![Status](https://img.shields.io/badge/Status-Selesai-green)
 
